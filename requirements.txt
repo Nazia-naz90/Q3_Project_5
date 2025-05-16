@@ -1,6 +1,7 @@
 streamlit==1.32.0
-cryptography==42.0.2
-cffi==1.16.0
+cryptography==41.0.7
+cffi==1.15.1
 pycparser==2.21
-setuptools>=65.5.1
-wheel>=0.40.0 
+setuptools==65.5.1
+wheel==0.40.0
+python-dotenv==1.0.0  # For environment variable management 

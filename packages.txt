@@ -1,3 +1,6 @@
 build-essential
 python3-dev
-libffi-dev 
+libffi-dev
+rustc
+pkg-config
+libssl-dev 
